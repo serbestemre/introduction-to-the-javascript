@@ -1,2 +1,2 @@
 # introduction-to-the-javascript
-These examples from an Udemy course written by me while learning javascript language.
+Source codes are implemented when I started learning javascript and those codes are just basic examples.
