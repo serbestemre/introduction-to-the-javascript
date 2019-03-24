@@ -1,2 +1,3 @@
 # introduction-to-the-javascript
-Source codes are implemented when I started learning javascript and those codes are just basic examples.
+These are hands-on examples while improving javascript skills via udemy course
+
